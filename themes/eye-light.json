@@ -3,7 +3,13 @@
 	"type": "light",
 	"colors": {
 		"editor.background": "#fff",
-		"editor.foreground": "#333333"
+		"editor.foreground": "#333333",
+		"editor.lineHighlightBackground": "#fffbdd",
+
+		"sideBar.background": "#fafbfc",
+
+		"statusBar.foreground": "#fff",
+		"statusBar.background": "#0053a0"
 	},
 	"tokenColors": [
 		{
