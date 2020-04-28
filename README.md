@@ -11,3 +11,7 @@ You can author your README using Visual Studio Code.  Here are some useful edito
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+# References
+* [VS Code Doc](https://code.visualstudio.com/api/references/theme-color#integrated-terminal-colors)
+* [Terminal Colors](https://glitchbone.github.io/vscode-base16-term/#/unikitty-dark)
