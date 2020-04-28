@@ -1,7 +1,7 @@
 {
     "name": "eye-light",
     "displayName": "eye-light",
-    "description": "Light color theme",
+    "description": "Light color theme for better eye and projection",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.44.0"
